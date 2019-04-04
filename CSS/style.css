@@ -1,8 +1,8 @@
-.intro .intro-subtitle {
-  font-size: 1.5rem;
-  font-weight: 300;
+body {
+  background-color:#ce3635;
+  text-align: center;
+  color:#fff;
+  padding-top:10em;
 }
 
-.intro .text-slider-items {
-  display: none;
-}
+* { color:#fff; text-decoration: none;}
